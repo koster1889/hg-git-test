@@ -1,0 +1,6 @@
+# Test of hg-git
+#
+# I am a versioned file...
+
+print "Hello world!"
+
